@@ -1,2 +1,4 @@
 flask==2.2.2
+PYTHON_VERSION==3.9.0
 gunicorn
+
